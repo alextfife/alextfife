@@ -11,6 +11,7 @@ Some things about me:
 -  Ask me about: Aquariums, health and gym advice, or anything!
 -  How to reach me: alextfife@gmail.com 
 -  Stances on technology:
+    - I am a huge Apple  fan by heart.
     - I hate batteries, until we get glass batteries
     - Go nuclear!
     - Rigth to Repair advocate 
