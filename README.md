@@ -3,7 +3,7 @@
 <!--
   **alextfife/alextfife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+Some things about me:
 
 -  I’m currently working on: [Tes](https://github.com/OpenSourceIronman/Tes)
 -  I’m currently learning: Python, Microcontrollers (esp32 specifically at the moment)
