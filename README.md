@@ -5,7 +5,8 @@
 -->
 Some things about me:
 
--  I’m currently working on: [Tes](https://github.com/OpenSourceIronman/Tes) slowly but surely
+-  I’m currently working on: [Tes](https://github.com/OpenSourceIronman/Tes) 
+-  I'm majoring in Electrical Engineering, minoring in Computer Science
 -  I’m currently learning: Python, Microcontrollers (esp32 specifically at the moment)
 -  I’m looking for help with: ^, fabricating materials for products (looking to make a tent like structure)
 -  Ask me about: Aquariums, health and gym advice, or anything!
