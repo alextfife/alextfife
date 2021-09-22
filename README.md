@@ -5,6 +5,7 @@
 -->
 Some things about me:
 
+-  IEEE Member, and President of the IEEE club at University of West Florida
 -  I’m currently working on: 
     -   [Tes](https://github.com/OpenSourceIronman/Tes), 
     -   [Tesla Energy Bros Podcast](https://twitter.com/TeslaBrosPod)
