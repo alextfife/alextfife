@@ -6,10 +6,11 @@
 Some things about me:
 
 -  IEEE Member, and President of the IEEE club at University of West Florida
+-  Just finished:      
+    -   [COVID-AirLock](https://github.com/alextfife/COVID-AirLock)
 -  I’m currently working on: 
     -   [Tes](https://github.com/OpenSourceIronman/Tes), 
     -   [Tesla Energy Bros Podcast](https://twitter.com/TeslaBrosPod)
-    -   [Coming soon](https://github.com/alextfife/COVID-AirLock)
 -  I'm majoring in Electrical Engineering, minoring in Computer Science
 -  I’m currently learning: Python, Microcontrollers (esp32 specifically at the moment)
 -  I’m looking for help with: ^, fabricating materials for products (looking to make a tent like structure)
