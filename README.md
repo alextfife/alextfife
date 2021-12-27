@@ -5,7 +5,7 @@
 -->
 Some things about me:
 
--  IEEE Member, and President of the IEEE club at University of West Florida
+-  IEEE Member, and former (graduated) President of the IEEE club at University of West Florida
 -  Just finished:      
     -   [COVID-AirLock](https://github.com/alextfife/COVID-AirLock)
 -  I’m currently working on: 
